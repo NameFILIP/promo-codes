@@ -16,27 +16,6 @@ export const promoCodes = [
     categories: ["Finance"],
   },
   {
-    name: "TradeUP",
-    description: "Invest in stock",
-    code: null,
-    link: "https://tradeup.marsco.com/activity/market/us-open-price/#/share?invite=37WFTN",
-    categories: ["Finance"],
-  },
-  {
-    name: "Nvstr",
-    description: "Smart investing platform",
-    code: null,
-    link: "https://www.nvstr.com/share/c2c8ce1d7",
-    categories: ["Finance"],
-  },
-  {
-    name: "SoFi",
-    description: "Buy and sell stocks with zero fees",
-    code: null,
-    link: "https://www.sofi.com/share/invest/2922148",
-    categories: ["Finance"],
-  },
-  {
     name: "Coinbase",
     description: "Coinbase is a place to buy and sell cryptocurrency",
     code: null,
@@ -128,20 +107,6 @@ export const promoCodes = [
     link: "https://inst.cr/t/qEp5F7hKc",
     categories: ["Food"],
   },
-  {
-    name: "Territory",
-    description: "Healthy chef-prepared meals delivered direct to your door",
-    code: "NAMEFILIP",
-    link: "https://www.territoryfoods.com/yum/NAMEFILIP",
-    categories: ["Food"],
-  },
-  {
-    name: "Saucey",
-    description: "Alcohol Delivery | Beer, Wine & Liquor",
-    code: null,
-    link: "https://get.saucey.com/glHEq6rcC5",
-    categories: ["Food"],
-  },
   // Transportation
   {
     name: "Getaround",
@@ -149,6 +114,14 @@ export const promoCodes = [
       "Getaround is an online car sharing or peer-to-peer carsharing service",
     code: "",
     link: "https://www.getaround.com/invite/10210287264472979",
+    categories: ["Transportation"],
+  },
+  {
+    name: "Uber",
+    description:
+      "Uber Technologies Inc. is a global taxi technology company, operating in 633 cities worldwide",
+    code: "uber15us",
+    link: 'https://www.uber.com/invite/uber15us',
     categories: ["Transportation"],
   },
   // {
@@ -188,29 +161,21 @@ export const promoCodes = [
     link: 'https://www.flyblackbird.com/',
     categories: ["Transportation"],
   },
-  {
-    name: "Uber",
-    description:
-      "Uber Technologies Inc. is a global taxi technology company, operating in 633 cities worldwide",
-    code: "uber15us",
-    link: 'https://www.uber.com/invite/uber15us',
-    categories: ["Transportation"],
-  },
   // Housing
-  {
-    name: "HotelTonight",
-    description:
-      "Amazing last-minute deals at top-rated hotels. Book Tonight, Tomorrow or 7 Days Out",
-    code: "FSPIRIDONOV",
-    link: 'https://txt.htltn.com/emUOyYE4w5',
-    categories: ["Housing"],
-  },
   {
     name: "Airbnb",
     description:
       "Airbnb is the best way to rent unique, local accommodations on any travel budget",
     code: "fspiridonov",
     link: "https://www.airbnb.com/c/fspiridonov",
+    categories: ["Housing"],
+  },
+  {
+    name: "HotelTonight",
+    description:
+      "Amazing last-minute deals at top-rated hotels. Book Tonight, Tomorrow or 7 Days Out",
+    code: "FSPIRIDONOV",
+    link: 'https://txt.htltn.com/emUOyYE4w5',
     categories: ["Housing"],
   },
   // Social
@@ -243,6 +208,5 @@ export const promoCodes = [
     code: null,
     link: "https://db.tt/SXln5Cpg",
     categories: ["Software"],
-
   }
 ];
