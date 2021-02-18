@@ -2,8 +2,7 @@ export const promoCodes = [
   // Finance
   {
     name: "Robinhood",
-    description:
-      "Robinhood lets you learn to invest in the stock market for free",
+    description: "Robinhood lets you learn to invest in the stock market for free",
     code: "filips2",
     link: "http://share.robinhood.com/filips2",
     categories: ["Finance"],
@@ -73,28 +72,28 @@ export const promoCodes = [
   },
   // Food
   {
-    name: 'Uber Eats',
+    name: "Uber Eats",
     description: "On-demand prepared food delivery service",
-    code: 'eats-uber15us',
+    code: "eats-uber15us",
     link: "http://ubr.to/EatsGiveGet",
     categories: ["Food"],
   },
   {
-    name: 'Doordash',
+    name: "Doordash",
     description: "On-demand prepared food delivery service",
     code: null,
     link: "https://drd.sh/xif2T3/",
     categories: ["Food"],
   },
   {
-    name: 'Grubhub',
+    name: "Grubhub",
     description: "On-demand prepared food delivery service",
     code: null,
     link: "https://www.grubhub.com/referral/352b93b0-d30e-11e6-a70f-bf3ac7369ce6",
     categories: ["Food"],
   },
   {
-    name: 'Postmates',
+    name: "Postmates",
     description: "On-demand prepared food delivery service",
     code: null,
     link: "https://postmat.es/KObh05Egx5",
@@ -110,8 +109,7 @@ export const promoCodes = [
   // Transportation
   {
     name: "Getaround",
-    description:
-      "Getaround is an online car sharing or peer-to-peer carsharing service",
+    description: "Getaround is an online car sharing or peer-to-peer carsharing service",
     code: "",
     link: "https://www.getaround.com/invite/10210287264472979",
     categories: ["Transportation"],
@@ -121,7 +119,7 @@ export const promoCodes = [
     description:
       "Uber Technologies Inc. is a global taxi technology company, operating in 633 cities worldwide",
     code: "uber15us",
-    link: 'https://www.uber.com/invite/uber15us',
+    link: "https://www.uber.com/invite/uber15us",
     categories: ["Transportation"],
   },
   // {
@@ -143,29 +141,27 @@ export const promoCodes = [
     name: "Bird",
     description: "Rent electric scooters",
     code: "YT4ZOL",
-    link: 'https://gift.bird.co/links/7xPJuhQAJsGy9nRD6',
+    link: "https://gift.bird.co/links/7xPJuhQAJsGy9nRD6",
     categories: ["Transportation"],
   },
   {
     name: "Scoot",
     description: "Rent electric scooters",
     code: "JG9XFL",
-    link: 'https://gift.scoot.com/links/2ZsE4BoUnT44YrY39',
+    link: "https://gift.scoot.com/links/2ZsE4BoUnT44YrY39",
     categories: ["Transportation"],
   },
   {
     name: "Blackbird",
-    description:
-      "Blackbird gives you the private flight experience at a budget airline price",
+    description: "Blackbird gives you the private flight experience at a budget airline price",
     code: "AI0AQ",
-    link: 'https://www.flyblackbird.com/',
+    link: "https://www.flyblackbird.com/",
     categories: ["Transportation"],
   },
   // Housing
   {
     name: "Airbnb",
-    description:
-      "Airbnb is the best way to rent unique, local accommodations on any travel budget",
+    description: "Airbnb is the best way to rent unique, local accommodations on any travel budget",
     code: "fspiridonov",
     link: "https://www.airbnb.com/c/fspiridonov",
     categories: ["Housing"],
@@ -175,7 +171,7 @@ export const promoCodes = [
     description:
       "Amazing last-minute deals at top-rated hotels. Book Tonight, Tomorrow or 7 Days Out",
     code: "FSPIRIDONOV",
-    link: 'https://txt.htltn.com/emUOyYE4w5',
+    link: "https://txt.htltn.com/emUOyYE4w5",
     categories: ["Housing"],
   },
   // Social
@@ -203,10 +199,19 @@ export const promoCodes = [
   },
   // Software
   {
-    name: 'Dropbox',
-    description: "Dropbox offers cloud storage, file synchronization, personal cloud, and client software",
+    name: "Dropbox",
+    description:
+      "Dropbox offers cloud storage, file synchronization, personal cloud, and client software",
     code: null,
     link: "https://db.tt/SXln5Cpg",
     categories: ["Software"],
-  }
+  },
+  // Fitness
+  {
+    name: "ClassPass",
+    description: "Provides access to different fitness classes",
+    code: null,
+    link: "https://classpass.com/refer/TSVJ7GIR24",
+    categories: ["Fitness"],
+  },
 ];
