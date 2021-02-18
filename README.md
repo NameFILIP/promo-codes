@@ -1,11 +1,14 @@
 # promo-codes
-A list of promo codes for different products - https://namefilip.github.io/promo-codes/
+A list of promo codes for different products to share with friends and family.
+* Use mine: https://namefilip.github.io/promo-codes/
+* Create yours ⬇️
 
 ## How to create your own list
 
-1. Change `src/promo-codes.js` to contain your codes
-2. Setup GitHub Pages to serve from the `/docs` folder of the `master` branch
-3. Publish
+1. Clone the repo
+2. Change `src/promo-codes.js` to contain your codes
+3. In repository settings setup GitHub Pages to serve from the `/docs` folder of the `master` branch
+4. Publish
 
 ## How to publish
 
