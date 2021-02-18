@@ -50,20 +50,6 @@ export const promoCodes = [
     categories: ["Finance"],
   },
   {
-    name: "Chase Checking",
-    description: "Open a Chase Checking accont and get a bonus",
-    code: null,
-    link: "https://accounts.chase.com/raf/share/2541951287",
-    categories: ["Finance"],
-  },
-  {
-    name: "Chase United Card",
-    description: "Open a Chase United Credit and get a bonus",
-    code: null,
-    link: "https://www.referyourchasecard.com/217a/E4SGVRDAS2",
-    categories: ["Finance"],
-  },
-  {
     name: "Wealthfront",
     description: "Wealthfront helps to manage your savings and automate your investments",
     code: null,
