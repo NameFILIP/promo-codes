@@ -11,7 +11,7 @@ export const promoCodes = [
     name: "Webull",
     description: "Webull offers commission-free online stock trading",
     code: null,
-    link: "https://act.webull.com/i/qcSfuIF1JqAI/8mw/",
+    link: "https://a.webull.com/ga6qcSfuIF1JqAI8LW",
     categories: ["Finance"],
   },
   {
@@ -19,27 +19,6 @@ export const promoCodes = [
     description: "Coinbase is a place to buy and sell cryptocurrency",
     code: null,
     link: "http://coinbase.com/join/spirid_9f",
-    categories: ["Finance"],
-  },
-  {
-    name: "Coinbase Earn XML",
-    description: "Earn crypto while learning about crypto",
-    code: null,
-    link: "https://coinbase.com/earn/xlm/invite/vd3bw81c",
-    categories: ["Finance"],
-  },
-  {
-    name: "Coinbase Earn OXT",
-    description: "Earn crypto while learning about crypto",
-    code: null,
-    link: "https://coinbase.com/earn/oxt/invite/v1sw5tm6",
-    categories: ["Finance"],
-  },
-  {
-    name: "Coinbase Earn EOS",
-    description: "Earn crypto while learning about crypto",
-    code: null,
-    link: "https://coinbase.com/earn/eos/invite/y3vt06bh",
     categories: ["Finance"],
   },
   {
@@ -61,7 +40,7 @@ export const promoCodes = [
     name: "Uber Eats",
     description: "On-demand prepared food delivery service",
     code: "eats-uber15us",
-    link: "http://ubr.to/EatsGiveGet",
+    link: null,
     categories: ["Food"],
   },
   {
@@ -79,13 +58,6 @@ export const promoCodes = [
     categories: ["Food"],
   },
   {
-    name: "Postmates",
-    description: "On-demand prepared food delivery service",
-    code: null,
-    link: "https://postmat.es/KObh05Egx5",
-    categories: ["Food"],
-  },
-  {
     name: "Instacart",
     description: "Instacart is a grocery delivery service",
     code: "FSPIRIDONOV1B4",
@@ -96,7 +68,7 @@ export const promoCodes = [
   {
     name: "Getaround",
     description: "Getaround is an online car sharing or peer-to-peer carsharing service",
-    code: "",
+    code: null,
     link: "https://www.getaround.com/invite/10210287264472979",
     categories: ["Transportation"],
   },
@@ -131,27 +103,27 @@ export const promoCodes = [
     categories: ["Transportation"],
   },
   {
-    name: "Scoot",
+    name: "Scoot Kick",
     description: "Rent electric scooters",
     code: "JG9XFL",
     link: "https://gift.scoot.com/links/2ZsE4BoUnT44YrY39",
     categories: ["Transportation"],
   },
-  {
-    name: "Blackbird",
-    description: "Blackbird gives you the private flight experience at a budget airline price",
-    code: "AI0AQ",
-    link: "https://www.flyblackbird.com/",
-    categories: ["Transportation"],
-  },
+  // {
+  //   name: "Blackbird",
+  //   description: "Blackbird gives you the private flight experience at a budget airline price",
+  //   code: "AI0AQ",
+  //   link: "https://www.flyblackbird.com/",
+  //   categories: ["Transportation"],
+  // },
   // Housing
-  {
-    name: "Airbnb",
-    description: "Airbnb is the best way to rent unique, local accommodations on any travel budget",
-    code: "fspiridonov",
-    link: "https://www.airbnb.com/c/fspiridonov",
-    categories: ["Housing"],
-  },
+  // {
+  //   name: "Airbnb",
+  //   description: "Airbnb is the best way to rent unique, local accommodations on any travel budget",
+  //   code: "fspiridonov",
+  //   link: "https://www.airbnb.com/c/fspiridonov",
+  //   categories: ["Housing"],
+  // },
   {
     name: "HotelTonight",
     description:
@@ -165,7 +137,7 @@ export const promoCodes = [
     name: "Blind",
     description: "Blind is an anonymous chat app for tech employees",
     code: "nXNnHm7f",
-    link: "https://us.teamblind.com/invite/nXNnHm7f",
+    link: "https://us.teamblind.com/invite/18OA4qu8-u",
     categories: ["Social"],
   },
   // Recruiting
@@ -193,11 +165,11 @@ export const promoCodes = [
     categories: ["Software"],
   },
   // Fitness
-  {
-    name: "ClassPass",
-    description: "Provides access to different fitness classes",
-    code: null,
-    link: "https://classpass.com/refer/TSVJ7GIR24",
-    categories: ["Fitness"],
-  },
+  // {
+  //   name: "ClassPass",
+  //   description: "Provides access to different fitness classes",
+  //   code: null,
+  //   link: "https://classpass.com/refer/TSVJ7GIR24",
+  //   categories: ["Fitness"],
+  // },
 ];
