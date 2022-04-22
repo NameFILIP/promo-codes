@@ -172,4 +172,12 @@ export const promoCodes = [
   //   link: "https://classpass.com/refer/TSVJ7GIR24",
   //   categories: ["Fitness"],
   // },
+  // Education
+  {
+    name: "Duolingo",
+    description: "The world's best way to learn a language",
+    code: null,
+    link: "https://invite.duolingo.com/BDHTZTB5CWWKTOVXBLNJ4KGPJM",
+    categories: ["Education"],
+  },
 ];
